@@ -1,3 +1,8 @@
-ML Algortithms from scratch
+# ML Algortithms from scratch
 
-The goal is to develop all ML algorithms from scratch using Python
+## Introduction
+The goal of this little project is to develop ML algorithms from scratch using Python.
+The algorithms are presented on Jupyter Notebooks with mathematical explanation of the model
+
+[ONGOING]
+
